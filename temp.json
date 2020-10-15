@@ -1,0 +1,176 @@
+[
+ {
+    "name": "Andaman and Nicobar Islands",   
+    "constituencies": [  "Andaman and Nicobar Islands"]
+ },
+
+ {
+    "name": "Andhra Pradesh",
+    "constituencies": [  "Adilabad",  "Amalapuram",  "Anakapalli",  "Anantapur",  "Araku",  "Bapatla",  "Bhongir",  "Chevella",  "Chittoor",  "Cuddapah",  "Eluru",  "Guntur",  "Hindupur",  "Hyderabad",  "Kakinada",  "Karimnagar",  "Khammam",  "Kurnool",  "Machilipatnam",  "Mahabubabad",  "Mahbubnagar",  "Malkajgiri",  "Medak",  "Nagarkurnool",  "Nalgonda",  "Nandyal",  "Narasaraopet",  "Naraspur",  "Nellore",  "Nizamabad",  "Ongole",  "Peddapalli",  "Rajahmundry",  "Rajampet",  "Secunderabad",  "Srikakulam",  "Tirupathi",  "Vijayawada",  "Visakhapatnam",  "Vizianagaram",  "Warangal",  "Zahirabad"]
+ },
+
+ {
+    "name": "Arunachal Pradesh",
+    "constituencies": [  "Arunachal East",  "Arunachal West"]
+ },
+
+ {
+    "name": "Assam",
+    "constituencies": [  "Autonomous District",  "Barpeta",  "Dhubri",  "Dibrugarh",  "Gauhati",  "Jorhat",  "Kaliabor",  "Karimganj",  "Kokrajhar",  "Lakhimpur",  "Mangaldoi",  "Nowgong",  "Silchar",  "Tezpur"]
+ },
+
+ {
+    "name": "Bihar",
+    "constituencies": [  "Araria",  "Arrah",  "Aurangabad",  "Banka",  "Begusarai",  "Bhagalpur",  "Buxar",  "Gaya",  "Gopalganj",  "Hajipur",  "Jahanabad",  "Jamui",  "Jhanjharpur",  "Karakat",  "Khagaria",  "Kishanganj",  "Madhubani",  "Maharajganj",  "Munger",  "Nalanda",  "Nawada",  "Paschim Champaran",  "Pataliputra",  "Patna Sahib",  "Purvi Champaran",  "Samastipur",  "Saran",  "Sasaram",  "Sheohar",  "Sitamarhi",  "Siwan",  "Supaul",  "Ujiarpur",  "Valmiki Nagar"]
+ },
+
+ {
+    "name": "Chandigarh",
+    "constituencies": [  "Chandigarh"]
+ },
+
+ {
+    "name": "Chattisgarh",
+    "constituencies": [  "Bastar",  "Bilaspur",  "Durg",  "Janjgir",  "Kanker",  "Korba",  "Mahasamund",  "Raigarh",  "Raipur",  "Rajnandgaon",  "Sarguja"]
+ },
+
+ {
+    "name": "Dadra and Nagar Haveli",
+    "constituencies": [  "Dadra and Nagar Haveli"]
+ },
+
+ {
+    "name": "Daman and Diu",
+    "constituencies": [  "Daman and Diu"]
+ },
+
+ {
+    "name": "Delhi",
+    "constituencies": [  "Chandni Chowk",  "East Delhi",  "New Delhi",  "North East Delhi",  "North West Delhi",  "South Delhi",  "West Delhi"]
+ },
+
+ {
+    "name": "Goa",
+    "constituencies": [  "North Goa",  "South Goa"]
+ },
+
+ {
+    "name": "Gujarat",
+    "constituencies": [  "Ahmedabad East",  "Ahmedabad West",  "Amreli",  "Anand",  "Banaskantha",  "Bardoli",  "Bharuch",  "Bhavnagar",  "Chhota Udaipur",  "Dahod",  "Gandhinagar",  "Jamnagar",  "Junagadh",  "Kachchh",  "Kheda",  "Mahesana",  "Navsari",  "Panchmahal",  "Patan",  "Porbandar",  "Rajkot",  "Sabarkantha",  "Surat",  "Surendranagar",  "Vadodara",  "Valsad"]
+ },
+
+ {
+    "name": "Haryana",
+    "constituencies": [  "Ambala",  "Bhiwani-Mahendragarh",  "Faridabad",  "Gurgaon",  "Hissar",  "Karnal",  "Kurukshetra",  "Rohtak",  "Sirsa",  "Sonepat"]
+ },
+
+ {
+    "name": "Himachal Pradesh",
+    "constituencies": [  "Hamirpur",  "Kangra",  "Mandi",  "Shimla"]
+ },
+
+ {
+    "name": "Jammu and Kashmir",
+    "constituencies": [  "Anantnag",  "Baramulla",  "Jammu",  "Ladakh",  "Srinagar",  "Udhampur"]
+ },
+
+ {
+    "name": "Jharkhand",
+    "constituencies": [  "Chatra",  "Dhanbad",  "Dumka",  "Giridih",  "Godda",  "Hazaribagh",  "Jamshedpur",  "Khunti",  "Kodarma",  "Lohardaga",  "Palamau",  "Rajmahal",  "Ranchi",  "Singhbhum"]
+ },
+
+ {
+    "name": "Karnataka",
+    "constituencies": [  "Bagalkot",  "Bangalore Central",  "Bangalore North",  "Bangalore Rural",  "Bangalore South",  "Belgaum",  "Bellary",  "Bidar",  "Bijapur",  "Chamarajanagar",  "Chikballapur",  "Chikkodi",  "Chitradurga",  "Dakshina Kannada",  "Davanagere",  "Dharwad",  "Gulbarga",  "Hassan",  "Haveri",  "Kolar",  "Koppal",  "Mandya",  "Mysore",  "Raichur",  "Shimoga",  "Tumkur",  "Udupi Chikmagalur",  "Uttara Kannada"]
+ },
+
+ {
+    "name": "Kerala",
+    "constituencies": [  "Alappuzha",  "Alathur",  "Attingal",  "Chalakudy",  "Ernakulam",  "Idukki",  "Kannur",  "Kasaragod",  "Kollam",  "Kottayam",  "Kozhikode",  "Malappuram",  "Mavelikara",  "Palakkad",  "Pathanamthitta",  "Ponnani",  "Thiruvananthapuram",  "Thrissur",  "Vadakara",  "Wayanad"]
+ },
+
+ {
+    "name": "Lakhshadweep",
+    "constituencies": [  "Lakhshadweep"]
+ },
+
+ {
+    "name": "Madhya Pradesh",
+    "constituencies": [  "Balaghat",  "Betul",  "Bhind",  "Bhopal",  "Chhindwara",  "Damoh",  "Dewas",  "Dhar",  "Guna",  "Gwalior",  "Hoshangabad",  "Indore",  "Jabalpur",  "Khajuraho",  "Khandwa",  "Khargone",  "Mandla",  "Mandsaur",  "Morena",  "Rajgarh",  "Ratlam",  "Rewa",  "Sagar",  "Satna",  "Shahdol",  "Sidhi",  "Tikamgarh",  "Ujjain",  "Vidisha"]
+ },
+
+ {
+    "name": "Maharashtra",
+    "constituencies": [  "Ahmednagar",  "Akola",  "Amravati",  "Aurangabad",  "Baramati",  "Beed",  "Bhandara-Gondiya",  "Bhiwandi",  "Buldhana",  "Chandrapur",  "Dhule",  "Dindori",  "Gadchiroli-Chimur",  "Hingoli",  "Ichalkaranji",  "Jalgaon",  "Jalna",  "Kalyan",  "Kolhapur",  "Latur",  "Madha",  "Maval",  "Mumbai North",  "Mumbai North Central",  "Mumbai North East",  "Mumbai North West",  "Mumbai South",  "Mumbai South Central",  "Nagpur",  "Nanded",  "Nandurbar",  "Nashik",  "Osmanabad",  "Palghar",  "Parbhani",  "Pune",  "Raigad",  "Ramtek",  "Ratnagiri-Sindhudurg",  "Raver",  "Sangli",  "Satara",  "Shirdi",  "Shirur",  "Solapur",  "Thane",  "Wardha",  "Yavatmal-Washim"]
+ },
+
+ {
+    "name": "Manipur",
+    "constituencies": [  "Inner Manipur",  "Outer Manipur"]
+ },
+
+ {
+    "name": "Meghalaya",
+    "constituencies": [  "Shillong",  "Tura"]
+ },
+
+ {
+    "name": "Mizoram",
+    "constituencies": [  "Mizoram"]
+ },
+
+ {
+    "name": "Nagaland",
+    "constituencies": [  "Nagaland"]
+ },
+
+ {
+    "name": "Odisha",
+    "constituencies": [  "Aska",  "Balasore",  "Bargarh",  "Berhampur",  "Bhadrak",  "Bhubaneswar",  "Bolangir",  "Cuttack",  "Dhenkanal",  "Jagatsinghpur",  "Jajpur",  "Kalahandi",  "Kandhamal",  "Kendrapara",  "Keonjhar",  "Koraput",  "Mayurbhanj",  "Nabarangpur",  "Puri",  "Sambalpur",  "Sundargarh"]
+ },
+
+ {
+    "name": "Puducherry",
+    "constituencies": [  "Puducherry"]
+ },
+
+ {
+    "name": "Punjab",
+    "constituencies": [  "Amritsar",  "Anandpur Sahib",  "Bathinda",  "Faridkot",  "Fatehgarh Sahib",  "Firozpur",  "Gurdaspur",  "Hoshiarpur",  "Jalandhar",  "Khadoor Sahib",  "Ludhiana",  "Patiala",  "Sangrur"]
+ },
+
+ {
+    "name": "Rajasthan",
+    "constituencies": [  "Ajmer",  "Alwar",  "Banswara",  "Barmer",  "Bharatpur",  "Bhilwara",  "Bikaner",  "Chittorgarh",  "Churu",  "Dausa",  "Ganganagar",  "Jaipur",  "Jaipur Rural",  "Jalore",  "Jhalawar-Baran",  "Jhunjhunu",  "Jodhpur",  "Karauli-Dholpur",  "Kota",  "Nagaur",  "Pali",  "Rajsamand",  "Sikar",  "Tonk-Sawai Madhopur",  "Udaipur"]
+ },
+
+ {
+    "name": "Sikkim",
+    "constituencies": [  "Sikkim"]
+ },
+
+ {
+    "name": "Tamil Nadu",
+    "constituencies": [  "Arakkonam",  "Arani",  "Chennai Central",  "Chennai North",  "Chennai South",  "Chidambaram",  "Coimbatore",  "Cuddalore",  "Dharmapuri",  "Dindigul",  "Erode",  "Kallakurichi",  "Kancheepuram",  "Kanyakumari",  "Karur",  "Krishnagiri",  "Madurai",  "Mayiladuturai",  "Nagapattinam",  "Namakkal",  "Nilgiris",  "Perambalur",  "Pollachi",  "Ramanathapuram",  "Salem",  "Sivaganga",  "Sriperumbudur",  "Tenkasi",  "Thanjavur",  "Theni",  "Thiruvallur",  "Thoothukudi",  "Tiruchirappalli",  "Tirunelveli",  "Tiruppur",  "Tiruvannamalai",  "Vellore",  "Villupuram",  "Virudhunagar"]
+ },
+
+ {
+    "name": "Tripura",
+    "constituencies": [  "Tripura East",  "Tripura West"]
+ },
+
+ {
+    "name": "Uttar Pradesh",
+    "constituencies": [  "Agra",  "Aligarh",  "Allahabad",  "Ambedkar Nagar",  "Amethi",  "Amroha",  "Aonla",  "Azamgarh",  "Badaun",  "Baghpat",  "Bahraich",  "Ballia",  "Banda",  "Bansgaon",  "Barabanki",  "Bareilly",  "Basti",  "Bhadohi",  "Bijnor",  "Bulandshahr",  "Chandauli",  "Deoria",  "Dhaurahra",  "Domariyaganj",  "Etah",  "Etawah",  "Faizabad",  "Farrukhabad",  "Fatehpur",  "Fatehpur Sikri",  "Firozabad",  "Gautam Buddha Nagar",  "Ghaziabad",  "Ghazipur",  "Ghosi",  "Gonda",  "Gorakhpur",  "Hamirpur",  "Hardoi",  "Hathras",  "Jalaun",  "Jaunpur",  "Jhansi",  "Kairana",  "Kaiserganj",  "Kannauj",  "Kanpur Rural",  "Kanpur Urban",  "Kaushambi",  "Kheri",  "Kushi Nagar",  "Lalganj",  "Lucknow",  "Machhlishahr",  "Maharajganj",  "Mainpuri",  "Mathura",  "Meerut",  "Mirzapur",  "Misrikh",  "Mohanlalganj",  "Moradabad",  "Muzaffarnagar",  "Nagina",  "Phulpur",  "Pilibhit",  "Pratapgarh",  "Rae Bareli",  "Rampur",  "Robertsganj",  "Saharanpur",  "Salempur",  "Sambhal",  "Sant Kabir Nagar",  "Shahjahanpur",  "Shrawasti",  "Sitapur",  "Sultanpur",  "Unnao",  "Varanasi"]
+ },
+
+ {
+    "name": "Uttarakhand",
+    "constituencies": [  "Almora",  "Garhwal",  "Haridwar",  "Nainital",  "Tehri Garhwal"]
+ },
+
+ {
+    "name": "West Bengal",
+    "constituencies": [  "Alipurduars",  "Arambag",  "Asansol",  "Baharampur",  "Balurghat",  "Bangaon",  "Bankura",  "Barasat",  "Bardhaman Purba",  "Bardhaman-Durgapur",  "Barrackpur",  "Basirhat",  "Birbhum",  "Bishnupur",  "Bolpur",  "Cooch Behar",  "Darjeeling",  "Diamond Harbour",  "Dum Dum",  "Ghatal",  "Hooghly",  "Howrah",  "Jadavpur",  "Jalpaiguri",  "Jangipur",  "Jaynagar",  "Jhargram",  "Kanthi",  "Kolkata Dakshin",  "Kolkata Uttar",  "Krishnanagar",  "Maldaha Dakshin",  "Maldaha Uttar",  "Mathurapur",  "Medinipur",  "Murshidabad",  "Purulia",  "Raiganj",  "Ranaghat",  "Sreerampur",  "Tamluk",  "Uluberia"]
+ }
+]

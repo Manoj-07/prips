@@ -1,0 +1,714 @@
+[
+ {
+  "name": "Andaman and Nicobar Islands",
+ "constituencies": [
+  {"name":"Andaman and Nicobar Islands"}
+ ]
+ },
+
+ {"name": "Andhra Pradesh",
+ "constituencies": [
+  {"name":"Adilabad" },
+  {"name":"Amalapuram" },
+  {"name":"Anakapalli" },
+  {"name":"Anantapur" },
+  {"name":"Araku" },
+  {"name":"Bapatla" },
+  {"name":"Bhongir" },
+  {"name":"Chevella" },
+  {"name":"Chittoor" },
+  {"name":"Cuddapah" },
+  {"name":"Eluru" },
+  {"name":"Guntur" },
+  {"name":"Hindupur" },
+  {"name":"Hyderabad" },
+  {"name":"Kakinada" },
+  {"name":"Karimnagar" },
+  {"name":"Khammam" },
+  {"name":"Kurnool" },
+  {"name":"Machilipatnam" },
+  {"name":"Mahabubabad" },
+  {"name":"Mahbubnagar" },
+  {"name":"Malkajgiri" },
+  {"name":"Medak" },
+  {"name":"Nagarkurnool" },
+  {"name":"Nalgonda" },
+  {"name":"Nandyal" },
+  {"name":"Narasaraopet" },
+  {"name":"Naraspur" },
+  {"name":"Nellore" },
+  {"name":"Nizamabad" },
+  {"name":"Ongole" },
+  {"name":"Peddapalli" },
+  {"name":"Rajahmundry" },
+  {"name":"Rajampet" },
+  {"name":"Secunderabad" },
+  {"name":"Srikakulam" },
+  {"name":"Tirupathi" },
+  {"name":"Vijayawada" },
+  {"name":"Visakhapatnam" },
+  {"name":"Vizianagaram" },
+  {"name":"Warangal" },
+  {"name":"Zahirabad"}
+ ]
+ },
+
+ {"name": "Arunachal Pradesh",
+ "constituencies": [
+  {"name":"Arunachal East" },
+  {"name":"Arunachal West"}
+ ]
+ },
+
+ {"name": "Assam",
+ "constituencies": [
+  {"name":"Autonomous District" },
+  {"name":"Barpeta" },
+  {"name":"Dhubri" },
+  {"name":"Dibrugarh" },
+  {"name":"Gauhati" },
+  {"name":"Jorhat" },
+  {"name":"Kaliabor" },
+  {"name":"Karimganj" },
+  {"name":"Kokrajhar" },
+  {"name":"Lakhimpur" },
+  {"name":"Mangaldoi" },
+  {"name":"Nowgong" },
+  {"name":"Silchar" },
+  {"name":"Tezpur"}
+ ]
+ },
+
+ {"name": "Bihar" ,
+ "constituencies": [
+  {"name":"Araria" },
+  {"name":"Arrah" },
+  {"name":"Aurangabad" },
+  {"name":"Banka" },
+  {"name":"Begusarai" },
+  {"name":"Bhagalpur" },
+  {"name":"Buxar" },
+  {"name":"Gaya" },
+  {"name":"Gopalganj" },
+  {"name":"Hajipur" },
+  {"name":"Jahanabad" },
+  {"name":"Jamui" },
+  {"name":"Jhanjharpur" },
+  {"name":"Karakat" },
+  {"name":"Khagaria" },
+  {"name":"Kishanganj" },
+  {"name":"Madhubani" },
+  {"name":"Maharajganj" },
+  {"name":"Munger" },
+  {"name":"Nalanda" },
+  {"name":"Nawada" },
+  {"name":"Paschim Champaran" },
+  {"name":"Pataliputra" },
+  {"name":"Patna Sahib" },
+  {"name":"Purvi Champaran" },
+  {"name":"Samastipur" },
+  {"name":"Saran" },
+  {"name":"Sasaram" },
+  {"name":"Sheohar" },
+  {"name":"Sitamarhi" },
+  {"name":"Siwan" },
+  {"name":"Supaul" },
+  {"name":"Ujiarpur" },
+  {"name":"Valmiki Nagar"}
+ ] 
+ },
+
+ {"name": "Chandigarh" ,
+ "constituencies": [
+  {"name":"Chandigarh"}
+ ] 
+ },
+
+ {"name": "Chattisgarh" ,
+ "constituencies": [
+  {"name":"Bastar" },
+  {"name":"Bilaspur" },
+  {"name":"Durg" },
+  {"name":"Janjgir" },
+  {"name":"Kanker" },
+  {"name":"Korba" },
+  {"name":"Mahasamund" },
+  {"name":"Raigarh" },
+  {"name":"Raipur" },
+  {"name":"Rajnandgaon" },
+  {"name":"Sarguja"}
+ ] 
+ },
+
+ {"name": "Dadra and Nagar Haveli" ,
+ "constituencies": [
+  {"name":"Dadra and Nagar Haveli"}
+ ] 
+ },
+
+ {"name": "Daman and Diu" ,
+ "constituencies": [
+  {"name":"Daman and Diu"}
+ ] 
+ },
+
+ {"name": "Delhi" ,
+ "constituencies": [
+  {"name":"Chandni Chowk" },
+  {"name":"East Delhi" },
+  {"name":"New Delhi" },
+  {"name":"North East Delhi" },
+  {"name":"North West Delhi" },
+  {"name":"South Delhi" },
+  {"name":"West Delhi"}
+ ] 
+ },
+
+ {"name": "Goa" ,
+ "constituencies": [
+  {"name":"North Goa" },
+  {"name":"South Goa"}
+ ] 
+ },
+
+ {"name": "Gujarat" ,
+ "constituencies": [
+  {"name":"Ahmedabad East" },
+  {"name":"Ahmedabad West" },
+  {"name":"Amreli" },
+  {"name":"Anand" },
+  {"name":"Banaskantha" },
+  {"name":"Bardoli" },
+  {"name":"Bharuch" },
+  {"name":"Bhavnagar" },
+  {"name":"Chhota Udaipur" },
+  {"name":"Dahod" },
+  {"name":"Gandhinagar" },
+  {"name":"Jamnagar" },
+  {"name":"Junagadh" },
+  {"name":"Kachchh" },
+  {"name":"Kheda" },
+  {"name":"Mahesana" },
+  {"name":"Navsari" },
+  {"name":"Panchmahal" },
+  {"name":"Patan" },
+  {"name":"Porbandar" },
+  {"name":"Rajkot" },
+  {"name":"Sabarkantha" },
+  {"name":"Surat" },
+  {"name":"Surendranagar" },
+  {"name":"Vadodara" },
+  {"name":"Valsad"}
+ ] 
+ },
+
+ {"name": "Haryana" ,
+ "constituencies": [
+  {"name":"Ambala" },
+  {"name":"Bhiwani-Mahendragarh" },
+  {"name":"Faridabad" },
+  {"name":"Gurgaon" },
+  {"name":"Hissar" },
+  {"name":"Karnal" },
+  {"name":"Kurukshetra" },
+  {"name":"Rohtak" },
+  {"name":"Sirsa" },
+  {"name":"Sonepat"}
+ ] 
+ },
+
+ {"name": "Himachal Pradesh" ,
+ "constituencies": [
+  {"name":"Hamirpur" },
+  {"name":"Kangra" },
+  {"name":"Mandi" },
+  {"name":"Shimla"}
+ ] 
+ },
+
+ {"name": "Jammu and Kashmir" ,
+ "constituencies": [
+  {"name":"Anantnag" },
+  {"name":"Baramulla" },
+  {"name":"Jammu" },
+  {"name":"Ladakh" },
+  {"name":"Srinagar" },
+  {"name":"Udhampur"}
+ ] 
+ },
+
+ {"name": "Jharkhand" ,
+ "constituencies": [
+  {"name":"Chatra" },
+  {"name":"Dhanbad" },
+  {"name":"Dumka" },
+  {"name":"Giridih" },
+  {"name":"Godda" },
+  {"name":"Hazaribagh" },
+  {"name":"Jamshedpur" },
+  {"name":"Khunti" },
+  {"name":"Kodarma" },
+  {"name":"Lohardaga" },
+  {"name":"Palamau" },
+  {"name":"Rajmahal" },
+  {"name":"Ranchi" },
+  {"name":"Singhbhum"}
+ ] 
+ },
+
+ {"name": "Karnataka" ,
+ "constituencies": [
+  {"name":"Bagalkot" },
+  {"name":"Bangalore Central" },
+  {"name":"Bangalore North" },
+  {"name":"Bangalore Rural" },
+  {"name":"Bangalore South" },
+  {"name":"Belgaum" },
+  {"name":"Bellary" },
+  {"name":"Bidar" },
+  {"name":"Bijapur" },
+  {"name":"Chamarajanagar" },
+  {"name":"Chikballapur" },
+  {"name":"Chikkodi" },
+  {"name":"Chitradurga" },
+  {"name":"Dakshina Kannada" },
+  {"name":"Davanagere" },
+  {"name":"Dharwad" },
+  {"name":"Gulbarga" },
+  {"name":"Hassan" },
+  {"name":"Haveri" },
+  {"name":"Kolar" },
+  {"name":"Koppal" },
+  {"name":"Mandya" },
+  {"name":"Mysore" },
+  {"name":"Raichur" },
+  {"name":"Shimoga" },
+  {"name":"Tumkur" },
+  {"name":"Udupi Chikmagalur" },
+  {"name":"Uttara Kannada"}
+ ] 
+ },
+
+ {"name": "Kerala" ,
+ "constituencies": [
+  {"name":"Alappuzha" },
+  {"name":"Alathur" },
+  {"name":"Attingal" },
+  {"name":"Chalakudy" },
+  {"name":"Ernakulam" },
+  {"name":"Idukki" },
+  {"name":"Kannur" },
+  {"name":"Kasaragod" },
+  {"name":"Kollam" },
+  {"name":"Kottayam" },
+  {"name":"Kozhikode" },
+  {"name":"Malappuram" },
+  {"name":"Mavelikara" },
+  {"name":"Palakkad" },
+  {"name":"Pathanamthitta" },
+  {"name":"Ponnani" },
+  {"name":"Thiruvananthapuram" },
+  {"name":"Thrissur" },
+  {"name":"Vadakara" },
+  {"name":"Wayanad"}
+ ] 
+ },
+
+ {"name": "Lakhshadweep" ,
+ "constituencies": [
+  {"name":"Lakhshadweep"}
+ ] 
+ },
+
+ {"name": "Madhya Pradesh" ,
+ "constituencies": [
+  {"name":"Balaghat" },
+  {"name":"Betul" },
+  {"name":"Bhind" },
+  {"name":"Bhopal" },
+  {"name":"Chhindwara" },
+  {"name":"Damoh" },
+  {"name":"Dewas" },
+  {"name":"Dhar" },
+  {"name":"Guna" },
+  {"name":"Gwalior" },
+  {"name":"Hoshangabad" },
+  {"name":"Indore" },
+  {"name":"Jabalpur" },
+  {"name":"Khajuraho" },
+  {"name":"Khandwa" },
+  {"name":"Khargone" },
+  {"name":"Mandla" },
+  {"name":"Mandsaur" },
+  {"name":"Morena" },
+  {"name":"Rajgarh" },
+  {"name":"Ratlam" },
+  {"name":"Rewa" },
+  {"name":"Sagar" },
+  {"name":"Satna" },
+  {"name":"Shahdol" },
+  {"name":"Sidhi" },
+  {"name":"Tikamgarh" },
+  {"name":"Ujjain" },
+  {"name":"Vidisha"}
+ ] 
+ },
+
+ {"name": "Maharashtra" ,
+ "constituencies": [
+  {"name":"Ahmednagar" },
+  {"name":"Akola" },
+  {"name":"Amravati" },
+  {"name":"Aurangabad" },
+  {"name":"Baramati" },
+  {"name":"Beed" },
+  {"name":"Bhandara-Gondiya" },
+  {"name":"Bhiwandi" },
+  {"name":"Buldhana" },
+  {"name":"Chandrapur" },
+  {"name":"Dhule" },
+  {"name":"Dindori" },
+  {"name":"Gadchiroli-Chimur" },
+  {"name":"Hingoli" },
+  {"name":"Ichalkaranji" },
+  {"name":"Jalgaon" },
+  {"name":"Jalna" },
+  {"name":"Kalyan" },
+  {"name":"Kolhapur" },
+  {"name":"Latur" },
+  {"name":"Madha" },
+  {"name":"Maval" },
+  {"name":"Mumbai North" },
+  {"name":"Mumbai North Central" },
+  {"name":"Mumbai North East" },
+  {"name":"Mumbai North West" },
+  {"name":"Mumbai South" },
+  {"name":"Mumbai South Central" },
+  {"name":"Nagpur" },
+  {"name":"Nanded" },
+  {"name":"Nandurbar" },
+  {"name":"Nashik" },
+  {"name":"Osmanabad" },
+  {"name":"Palghar" },
+  {"name":"Parbhani" },
+  {"name":"Pune" },
+  {"name":"Raigad" },
+  {"name":"Ramtek" },
+  {"name":"Ratnagiri-Sindhudurg" },
+  {"name":"Raver" },
+  {"name":"Sangli" },
+  {"name":"Satara" },
+  {"name":"Shirdi" },
+  {"name":"Shirur" },
+  {"name":"Solapur" },
+  {"name":"Thane" },
+  {"name":"Wardha" },
+  {"name":"Yavatmal-Washim"}
+ ] 
+ },
+
+ {"name": "Manipur" ,
+ "constituencies": [
+  {"name":"Inner Manipur" },
+  {"name":"Outer Manipur"}
+ ] 
+ },
+
+ {"name": "Meghalaya" ,
+ "constituencies": [
+  {"name":"Shillong" },
+  {"name":"Tura"}
+ ] 
+ },
+
+ {"name": "Mizoram" ,
+ "constituencies": [
+  {"name":"Mizoram"}
+ ] 
+ },
+
+ {"name": "Nagaland" ,
+ "constituencies": [
+  {"name":"Nagaland"}
+ ] 
+ },
+
+ {"name": "Odisha" ,
+ "constituencies": [
+  {"name":"Aska" },
+  {"name":"Balasore" },
+  {"name":"Bargarh" },
+  {"name":"Berhampur" },
+  {"name":"Bhadrak" },
+  {"name":"Bhubaneswar" },
+  {"name":"Bolangir" },
+  {"name":"Cuttack" },
+  {"name":"Dhenkanal" },
+  {"name":"Jagatsinghpur" },
+  {"name":"Jajpur" },
+  {"name":"Kalahandi" },
+  {"name":"Kandhamal" },
+  {"name":"Kendrapara" },
+  {"name":"Keonjhar" },
+  {"name":"Koraput" },
+  {"name":"Mayurbhanj" },
+  {"name":"Nabarangpur" },
+  {"name":"Puri" },
+  {"name":"Sambalpur" },
+  {"name":"Sundargarh"}
+ ] 
+ },
+
+ {"name": "Puducherry" ,
+ "constituencies": [
+  {"name":"Puducherry"}
+ ] 
+ },
+
+ {"name": "Punjab" ,
+ "constituencies": [
+  {"name":"Amritsar" },
+  {"name":"Anandpur Sahib" },
+  {"name":"Bathinda" },
+  {"name":"Faridkot" },
+  {"name":"Fatehgarh Sahib" },
+  {"name":"Firozpur" },
+  {"name":"Gurdaspur" },
+  {"name":"Hoshiarpur" },
+  {"name":"Jalandhar" },
+  {"name":"Khadoor Sahib" },
+  {"name":"Ludhiana" },
+  {"name":"Patiala" },
+  {"name":"Sangrur"}
+ ] 
+ },
+
+ {"name": "Rajasthan" ,
+ "constituencies": [
+  {"name":"Ajmer" },
+  {"name":"Alwar" },
+  {"name":"Banswara" },
+  {"name":"Barmer" },
+  {"name":"Bharatpur" },
+  {"name":"Bhilwara" },
+  {"name":"Bikaner" },
+  {"name":"Chittorgarh" },
+  {"name":"Churu" },
+  {"name":"Dausa" },
+  {"name":"Ganganagar" },
+  {"name":"Jaipur" },
+  {"name":"Jaipur Rural" },
+  {"name":"Jalore" },
+  {"name":"Jhalawar-Baran" },
+  {"name":"Jhunjhunu" },
+  {"name":"Jodhpur" },
+  {"name":"Karauli-Dholpur" },
+  {"name":"Kota" },
+  {"name":"Nagaur" },
+  {"name":"Pali" },
+  {"name":"Rajsamand" },
+  {"name":"Sikar" },
+  {"name":"Tonk-Sawai Madhopur" },
+  {"name":"Udaipur"}
+ ] 
+ },
+
+ {"name": "Sikkim" ,
+ "constituencies": [
+  {"name":"Sikkim"}
+ ] 
+ },
+
+ {"name": "Tamil Nadu" ,
+ "constituencies": [
+  {"name":"Arakkonam" },
+  {"name":"Arani" },
+  {"name":"Chennai Central" },
+  {"name":"Chennai North" },
+  {"name":"Chennai South" },
+  {"name":"Chidambaram" },
+  {"name":"Coimbatore" },
+  {"name":"Cuddalore" },
+  {"name":"Dharmapuri" },
+  {"name":"Dindigul" },
+  {"name":"Erode" },
+  {"name":"Kallakurichi" },
+  {"name":"Kancheepuram" },
+  {"name":"Kanyakumari" },
+  {"name":"Karur" },
+  {"name":"Krishnagiri" },
+  {"name":"Madurai" },
+  {"name":"Mayiladuturai" },
+  {"name":"Nagapattinam" },
+  {"name":"Namakkal" },
+  {"name":"Nilgiris" },
+  {"name":"Perambalur" },
+  {"name":"Pollachi" },
+  {"name":"Ramanathapuram" },
+  {"name":"Salem" },
+  {"name":"Sivaganga" },
+  {"name":"Sriperumbudur" },
+  {"name":"Tenkasi" },
+  {"name":"Thanjavur" },
+  {"name":"Theni" },
+  {"name":"Thiruvallur" },
+  {"name":"Thoothukudi" },
+  {"name":"Tiruchirappalli" },
+  {"name":"Tirunelveli" },
+  {"name":"Tiruppur" },
+  {"name":"Tiruvannamalai" },
+  {"name":"Vellore" },
+  {"name":"Villupuram" },
+  {"name":"Virudhunagar"}
+ ] 
+ },
+
+ {"name": "Tripura" ,
+ "constituencies": [
+  {"name":"Tripura East" },
+  {"name":"Tripura West"}
+ ] 
+ },
+
+ {"name": "Uttar Pradesh" ,
+ "constituencies": [
+  {"name":"Agra" },
+  {"name":"Aligarh" },
+  {"name":"Allahabad" },
+  {"name":"Ambedkar Nagar" },
+  {"name":"Amethi" },
+  {"name":"Amroha" },
+  {"name":"Aonla" },
+  {"name":"Azamgarh" },
+  {"name":"Badaun" },
+  {"name":"Baghpat" },
+  {"name":"Bahraich" },
+  {"name":"Ballia" },
+  {"name":"Banda" },
+  {"name":"Bansgaon" },
+  {"name":"Barabanki" },
+  {"name":"Bareilly" },
+  {"name":"Basti" },
+  {"name":"Bhadohi" },
+  {"name":"Bijnor" },
+  {"name":"Bulandshahr" },
+  {"name":"Chandauli" },
+  {"name":"Deoria" },
+  {"name":"Dhaurahra" },
+  {"name":"Domariyaganj" },
+  {"name":"Etah" },
+  {"name":"Etawah" },
+  {"name":"Faizabad" },
+  {"name":"Farrukhabad" },
+  {"name":"Fatehpur" },
+  {"name":"Fatehpur Sikri" },
+  {"name":"Firozabad" },
+  {"name":"Gautam Buddha Nagar" },
+  {"name":"Ghaziabad" },
+  {"name":"Ghazipur" },
+  {"name":"Ghosi" },
+  {"name":"Gonda" },
+  {"name":"Gorakhpur" },
+  {"name":"Hamirpur" },
+  {"name":"Hardoi" },
+  {"name":"Hathras" },
+  {"name":"Jalaun" },
+  {"name":"Jaunpur" },
+  {"name":"Jhansi" },
+  {"name":"Kairana" },
+  {"name":"Kaiserganj" },
+  {"name":"Kannauj" },
+  {"name":"Kanpur Rural" },
+  {"name":"Kanpur Urban" },
+  {"name":"Kaushambi" },
+  {"name":"Kheri" },
+  {"name":"Kushi Nagar" },
+  {"name":"Lalganj" },
+  {"name":"Lucknow" },
+  {"name":"Machhlishahr" },
+  {"name":"Maharajganj" },
+  {"name":"Mainpuri" },
+  {"name":"Mathura" },
+  {"name":"Meerut" },
+  {"name":"Mirzapur" },
+  {"name":"Misrikh" },
+  {"name":"Mohanlalganj" },
+  {"name":"Moradabad" },
+  {"name":"Muzaffarnagar" },
+  {"name":"Nagina" },
+  {"name":"Phulpur" },
+  {"name":"Pilibhit" },
+  {"name":"Pratapgarh" },
+  {"name":"Rae Bareli" },
+  {"name":"Rampur" },
+  {"name":"Robertsganj" },
+  {"name":"Saharanpur" },
+  {"name":"Salempur" },
+  {"name":"Sambhal" },
+  {"name":"Sant Kabir Nagar" },
+  {"name":"Shahjahanpur" },
+  {"name":"Shrawasti" },
+  {"name":"Sitapur" },
+  {"name":"Sultanpur" },
+  {"name":"Unnao" },
+  {"name":"Varanasi"}
+ ] 
+ },
+
+ {"name": "Uttarakhand" ,
+ "constituencies": [
+  {"name":"Almora" },
+  {"name":"Garhwal" },
+  {"name":"Haridwar" },
+  {"name":"Nainital" },
+  {"name":"Tehri Garhwal"}
+ ] 
+ },
+
+ {"name": "West Bengal" ,
+ "constituencies": [
+  {"name":"Alipurduars" },
+  {"name":"Arambag" },
+  {"name":"Asansol" },
+  {"name":"Baharampur" },
+  {"name":"Balurghat" },
+  {"name":"Bangaon" },
+  {"name":"Bankura" },
+  {"name":"Barasat" },
+  {"name":"Bardhaman Purba" },
+  {"name":"Bardhaman-Durgapur" },
+  {"name":"Barrackpur" },
+  {"name":"Basirhat" },
+  {"name":"Birbhum" },
+  {"name":"Bishnupur" },
+  {"name":"Bolpur" },
+  {"name":"Cooch Behar" },
+  {"name":"Darjeeling" },
+  {"name":"Diamond Harbour" },
+  {"name":"Dum Dum" },
+  {"name":"Ghatal" },
+  {"name":"Hooghly" },
+  {"name":"Howrah" },
+  {"name":"Jadavpur" },
+  {"name":"Jalpaiguri" },
+  {"name":"Jangipur" },
+  {"name":"Jaynagar" },
+  {"name":"Jhargram" },
+  {"name":"Kanthi" },
+  {"name":"Kolkata Dakshin" },
+  {"name":"Kolkata Uttar" },
+  {"name":"Krishnanagar" },
+  {"name":"Maldaha Dakshin" },
+  {"name":"Maldaha Uttar" },
+  {"name":"Mathurapur" },
+  {"name":"Medinipur" },
+  {"name":"Murshidabad" },
+  {"name":"Purulia" },
+  {"name":"Raiganj" },
+  {"name":"Ranaghat" },
+  {"name":"Sreerampur" },
+  {"name":"Tamluk" },
+  {"name":"Uluberia"}
+ ]
+ }
+]
